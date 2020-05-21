@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Obligatorio2MVC", "Obligatorio2MVC\Obligatorio2MVC.csproj", "{0FF2396D-4FA9-4E58-8A0C-E1CC9344D711}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesObligatorio1", "ClasesObligatorio1\ClasesObligatorio1.csproj", "{972E3432-21F8-47F2-9F75-262FCA4ABBAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0FF2396D-4FA9-4E58-8A0C-E1CC9344D711}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF2396D-4FA9-4E58-8A0C-E1CC9344D711}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF2396D-4FA9-4E58-8A0C-E1CC9344D711}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF2396D-4FA9-4E58-8A0C-E1CC9344D711}.Release|Any CPU.Build.0 = Release|Any CPU
+		{972E3432-21F8-47F2-9F75-262FCA4ABBAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{972E3432-21F8-47F2-9F75-262FCA4ABBAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{972E3432-21F8-47F2-9F75-262FCA4ABBAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{972E3432-21F8-47F2-9F75-262FCA4ABBAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {954A43DA-A292-49EE-A9E6-6646581B9A9F}
+	EndGlobalSection
+EndGlobal
